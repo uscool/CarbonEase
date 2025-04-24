@@ -1,0 +1,9 @@
+Bill Name,Dishes,Total Carbon Footprint (kg CO2e),Total Water Usage (L),Total Price (INR),Date Created,CheckedOut
+New Bill,"Pork and Salmon, New Chef Special",31.30,32100.00,13588.00,2025-04-24,true
+NBILL,"Pork and Salmon, New Chef Special",31.30,32100.00,13588.00,2025-04-24,true
+Bill Trial,"New Dishes, New Chef Special",35.60,35537.00,13578.00,2025-04-24,true
+New Bills Are Fun,"Pork and Salmon, New Chef Special",31.30,32100.00,13588.00,2025-04-24,true
+New,"Pork and Salmon, New Chef Special",31.30,32100.00,13588.00,2025-04-24,true
+Bill New,"New Chef Special, New Dishes, Pork and Salmon",54.70,46525.00,14822.00,2025-04-24,true
+New Bills,"New Chef Special, Pork and Salmon, New Dishes",54.70,46525.00,14822.00,2025-04-24,true
+Bill,"Is a Dish, New Chef Special, Pork and Salmon, New Dishes",59.00,49526.00,16056.00,2025-04-24,true
