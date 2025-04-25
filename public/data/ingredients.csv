@@ -1,8 +1,4 @@
 Ingredient,Carbon Footprint (kg CO2e/kg),Category,Water Usage (L/kg)
-Beef,60.0,Meat,15400
-Chicken,6.0,Meat,4325
-Pork,7.2,Meat,5988
-Salmon,11.9,Seafood,5000
 Rice,2.7,Grains,2500
 Wheat,1.4,Grains,1300
 Potatoes,0.2,Vegetables,287
